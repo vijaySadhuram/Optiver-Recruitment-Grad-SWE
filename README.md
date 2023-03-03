@@ -1,4 +1,4 @@
-# Optiver-Recruitment-Grad-SWE
+# Optiver-recruitment-grad-swe-Amsterdam, Netherlands
 This repo explain about the  Optiver Recruitment process, Types of rounds for Grad SWE - 2023
 
 The first step in the process will consist of three online assessments: Optiver Neuro-Assessment Games, 
