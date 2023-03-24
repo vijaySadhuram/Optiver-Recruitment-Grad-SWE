@@ -24,7 +24,7 @@ HackerRank Knowledge Test, and HackerRank Coding Test
 . The Coding Test is comprised of 2 coding assignments, and lasts 120 minutes -- Leetcode medium to difficulty
 
 
-                                        Let's Connect 
+                                                     Let's Connect 
 
 
 
